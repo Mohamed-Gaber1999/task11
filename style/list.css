@@ -1,0 +1,17 @@
+section{
+    margin: 1em 0;
+}
+.container{
+    display: flex;
+    justify-content: flex-start;
+}
+.list-items{
+    text-align: start;
+    display: flex;
+    gap: 2em;
+    margin: 0 4em;
+}
+.active{
+    color: #EE5733;
+    text-decoration: underline;
+}
